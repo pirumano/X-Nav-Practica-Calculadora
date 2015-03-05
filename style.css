@@ -1,0 +1,41 @@
+#calcu{
+	background-color: gray;
+	width: 410px;
+	height: 430px;
+}
+#display{
+	background-color: #aaffaa;
+	height: 40px;
+	padding: 20px;
+	text-align: right;
+	font-size: 35px;
+}
+#botonera{
+	height: 350px;
+	margin: 1px;
+}
+#numeros{
+	display: inline;
+	float:left;
+	width: 300px;
+	height: 350px;
+	margin-left: 8px;
+}
+#opera{
+	display: inline;
+	float:left;
+	width: 100px;
+	height: 300px;
+}
+button{
+	margin: 2px;
+	width: 80px;
+	height: 80px;
+	font-size: 20px;
+}
+#cero{
+	width: 256px;
+}
+#opera button{
+	height: 52px;
+}
